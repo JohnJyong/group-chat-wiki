@@ -1,0 +1,5 @@
+flask
+lark-oapi
+openai
+python-dotenv
+pytest
